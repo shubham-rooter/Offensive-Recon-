@@ -31,7 +31,3 @@ cd Offensive-Recon-
 ```
 ![image](https://user-images.githubusercontent.com/94091556/204772753-6812ad62-e308-4469-9a7d-8acc3a1700c0.png)
 
-```
-SHUBHAM ROOTER
-```
-
