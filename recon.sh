@@ -1,6 +1,18 @@
 #!/bin/bash 
 
 url=$1
+
+
+
+if [ -z "$1" ] 
+  then
+    echo -e "\e[00;33m# Usage example:\e[00m" "\e[01;31m$0  example.com \e[00m\n"
+    exit
+  else
+      echo -e "\e[00;33m# Get information about:   \e[00m" "\e[01;31m$1\e[00m"
+      echo -e "\e[00;33m# Delay between queries:   \e[00m" "\e[01;31m$sleeptime\e[00m" "\e[00;33msec\e[00m\n"
+  fi
+
 if [ ! -d "$url" ];then
   mkdir $url
 fi
