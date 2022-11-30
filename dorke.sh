@@ -3,7 +3,7 @@
 
 version="v1"								
 updatedate="Nov 20,2022"				    
-example_domain="exchange.com "
+example_domain="example.com "
 sleeptime=6									
 domain=$1 									
 browser='Mozilla'	
