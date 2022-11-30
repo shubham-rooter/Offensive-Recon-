@@ -6,9 +6,11 @@
 https://github.com/shubham-rooter/Offensive-Recon-/blob/main/dorke.sh
 
 # How to use 
+```
 git clone https://github.com/shubham-rooter/Offensive-Recon-.git
-cd Offensive-Recon- 
-chmod 777 dorke.sh recon.sh
+```
+``` cd Offensive-Recon- ```
+``` chmod 777 dorke.sh recon.sh ```
 
 #Google-Dorker Only 
 
