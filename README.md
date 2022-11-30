@@ -1,4 +1,7 @@
-# Offensive-Recon
+
+# Offensive-Recon  
+#RECON FEATURES
+# 
 #Automate Vulnerablity Scan 
 #Automate Ports Scan
 
